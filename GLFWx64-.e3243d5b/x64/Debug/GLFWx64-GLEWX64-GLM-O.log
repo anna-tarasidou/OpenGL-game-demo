@@ -1,0 +1,24 @@
+﻿  stb_image.cpp
+  test.cpp
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(506,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(507,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(548,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(549,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(550,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(551,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(585,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(586,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(587,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(588,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(620,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(621,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(622,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(623,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(650,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(651,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(652,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(653,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\GLFWx64-GLEWX64-GLM-O\test.cpp(759,62): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GLFWx64-GLEWX64-GLM-O.vcxproj -> C:\GLP\GLFWx64-GLEWX64-GLM-O\x64\Debug\GLFWx64-GLEWX64-GLM-O.exe
