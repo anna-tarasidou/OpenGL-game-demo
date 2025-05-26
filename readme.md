@@ -9,6 +9,7 @@ This is a simple 3D maze game implemented using OpenGL and GLFW, where the playe
 ## Features
 
 * **Character Movement:** Move the player cube with keys `J` (left), `L` (right), `I` (up), and `K` (down).
+* **Camera Movement:** Rotate, pan, and zoom the camera using `W`, `X`, `Q`, `Z`, `H`, `G`, `B`, and `T` keys to view the maze from different angles. 
 * **Collision Detection:** Prevent movement through walls in the maze.
 * **Treasure Interaction:** Collect treasure cubes to trigger special effects like sound playback and animations.
 * **Special Teleport Conditions:** Teleport the character when reaching specific coordinates.
