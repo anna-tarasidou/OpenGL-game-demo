@@ -1,7 +1,3 @@
-Sure! Here's a README tailored for your OpenGL maze game with character movement and treasure interaction:
-
----
-
 # 3D Maze Game with OpenGL
 
 ## Overview
