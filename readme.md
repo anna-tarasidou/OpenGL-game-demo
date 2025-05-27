@@ -9,6 +9,8 @@
 ## Overview
 
 This is a simple 3D maze game implemented using OpenGL and GLFW, where the player controls a cube character navigating through a maze to collect treasures. The game features keyboard controls, collision detection with maze walls, treasure interactions, special teleport conditions, and multi-threaded sound and visual effects.
+The full report of the project implementation is uplodaded, so you can see in detail the logic and methods we followed.You can tap the link below.
+[Report.pdf](blob/main/Report.pdf)
 
 ---
 
