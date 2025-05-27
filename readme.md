@@ -1,8 +1,8 @@
 # 3D Maze Game with OpenGL
 
 ## Authors 
-* **Anna Tarasidou
-* **Nikos Laloutsos
+* **Anna Tarasidou**
+* **Nikos Laloutsos**
 
 ---
 
